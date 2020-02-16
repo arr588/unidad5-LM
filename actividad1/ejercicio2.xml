@@ -1,0 +1,54 @@
+<!--Documento 1-->
+<?xml version="1.0" encoding="UTF-8"?>
+<deportistas>
+  <deportista>
+    <deporte Atletismo /> <!--El texto que define el elemento no puede estar dentro del elemento--> <deporte>Atletismo</deporte>
+    <nombre>Jesse Owens</nombre>
+  <deportista>
+    <deporte Natación /> <!--El texto que define el elemento no puede estar dentro del elemento--> <deporte>Natación</deporte>
+    <nombre>Mark Spitz</nombre>
+  </deportista>
+</deportistas>
+
+<!--Documento 2-->
+<?xml version="1.0" encoding="UTF-8"?>
+<pelicula>
+  <titulo>Con faldas y a lo loco</titulo>
+  <director>Billy Wilder</director>
+</pelicula>
+<pelicula>
+  <director>Leo McCarey</director>
+  <titulo>Sopa de ganso</titulo>
+</pelicula>
+<autor />barto</autor> <!--La / despues del primer autor no debe estar ahí--> <autor>barto</autor>
+
+<!--Documento 3-->
+<comandos>
+    <comando>
+        <nombre>Jack O'Hara</nombre>
+        <alias>Boina verde</
+            alias> <!--No puede haber un espacio en blanco antes del nombre de una etiqueta--> <alias>Boina verde</alias>
+        <pais>Irlanda</pais>
+        <graduacion>Sargento</Graduacion> <!--graduacion no es igual a Graduacion por la mayúscula--> <graduacion>Sargento</graduacion>
+    </comando>
+    <comando>
+        <nombre >Sir Francis T. Woolridge</nombre>
+        </alias> <!--Los elementos vacios se representan asi--> <alias/> <!--o--> <alias></alias>
+        <pais>Inglaterra</pais>
+        <graduacion>Soldado</graduacion>
+    </comando>
+    <COMANDO> <!--COMANDO no es igual a comando por las mayusculas--> <comando>
+        <nombre
+        >James Blackwood</nombre
+           >
+        <alias>Marine</alias>
+        <pais>Australia<pais>
+        <graduacion>Soldado</graduacion>
+    </comando>
+    <comando>
+        <nombre>Thomas Hancock</nombre>
+        <alias>Zapador</alias>
+        <país>Inglaterra</pais> <!--País no es igual a pais por la tilde--> <pais>Inglaterra</pais>
+        <graduacion>Soldado</graduacion>
+    </comando>
+<!--Falta cerrar el XML--> </comandos>

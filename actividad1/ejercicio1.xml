@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<paises>
+    <pais>
+        <nombre>España</nombre>
+        <idioma_oficial>Español</idioma_oficial>
+        <prefijo>+34</prefijo>
+        <capital>
+            <nombre>Madrid</nombre>
+            <habitantes>6,55 millones</habitantes>
+        </capital>
+    </pais>
+    <pais>
+        <nombre>Luxenburgo</nombre>
+        <idioma_oficial>Luxenburgues</idioma_oficial>
+        <prefijo>+352</prefijo>
+        <capital>
+            <nombre>Ciudad de Luxenburgo</nombre>
+            <habitantes>119.215</habitantes>
+        </capital>
+    </pais>
+    <pais>
+        <nombre>Italia</nombre>
+        <idioma_oficial>Italiano</idioma_oficial>
+        <prefijo>+39</prefijo>
+        <capital>
+            <nombre>Roma</nombre>
+            <habitantes>2.872.800</habitantes>
+        </capital>
+    </pais>
+    <pais>
+        <nombre>Eslovenia</nombre>
+        <idioma_oficial>Esloveno</idioma_oficial>
+        <prefijo>+386</prefijo>
+        <capital>
+            <nombre>Liubliana</nombre>
+            <habitantes>284.355</habitantes>
+        </capital>
+    </pais>
+    <pais>
+        <nombre>Finlandia</nombre>
+        <idioma_oficial>Finés y sueco</idioma_oficial>
+        <prefijo>+358</prefijo>
+        <capital>
+            <nombre>Helsinki</nombre>
+            <habitantes>642.045</habitantes>
+        </capital>
+    </pais>
+    <pais>
+        <nombre>Grecia</nombre>
+        <idioma_oficial>Griego</idioma_oficial>
+        <prefijo>+30</prefijo>
+        <capital>
+            <nombre>Atenas</nombre>
+            <habitantes>664.046</habitantes>
+        </capital>
+    </pais>
+    <pais>
+        <nombre>Rumania</nombre>
+        <idioma_oficial>Rumano</idioma_oficial>
+        <prefijo>+40</prefijo>
+        <capital>
+            <nombre>Bucarest</nombre>
+            <habitantes>1.883.425</habitantes>
+        </capital>
+    </pais>
+    <pais>
+        <nombre>Irlanda</nombre>
+        <idioma_oficial>Irlandés e Inglés</idioma_oficial>
+        <prefijo>+353</prefijo>
+        <capital>
+            <nombre>Dublín</nombre>
+            <habitantes>553.165</habitantes>
+        </capital>
+    </pais>
+</paises>
