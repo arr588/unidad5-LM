@@ -1,0 +1,37 @@
+<!--Documento 1-->
+<?xml version="1.0" encoding="UTF-8"?>
+<figuras> 
+   <figura plana> <!--El atributo debe ir escrito asi--> <figura tipo="plana">
+      <nombre>cuadrado</nombre>
+      </lados 4> <!--El atributo debe ir escrito asi y está mal escrito el atrinuto--> <lados x="4"/>
+   </figura>
+   <figura plana> <!--El atributo debe ir escrito asi--> <figura tipo="plana">
+      <nombre>triángulo</nombre>
+      </lados 3> <!--El atributo debe ir escrito asi y está mal escrito el atrinuto--> <lados x="3"/>
+   </figura>
+   <figura tridimensional> <!--El atributo debe ir escrito asi--> <figura tipo="tridimensional">
+      <nombre>cubo</nombre>
+      </aristas 12> <!--El atributo debe ir escrito asi y está mal escrito el atrinuto--> <aristas a="12"/>
+      </caras 6> <!--El atributo debe ir escrito asi y está mal escrito el atrinuto--> <caras c="6"/>
+   </figura>
+</figuras>
+
+<!--Documento 2-->
+<?Xml version="1,0" encoding="UTF8"?>
+<triangulo base="7"altura="5">
+<triangulo base="2"altura="6">
+<triangulo base="3"altura="3">
+<!--Los atributos del elemento van separados por una espacio y los elementos vacios no se escriben así-->
+<triangulos>
+    <triangulo base="7" altura="5"/>
+    <triangulo base="2" altura="6"/>
+    <triangulo base="3" altura="3"/>
+</triangulos>
+
+<!--Documento 3-->
+<?xml version="1.0" encoding="UTF-8"?>
+<programas>
+  <programa nombre="Firefox" licencia="GPL" licencia="MPL" />
+  <programa nombre="LibreOffice" licencia="LGPL" />
+  <programa nombre="Inkscape" licencia=GPL /> <!--GLP va entre comillas dobles--> <programa nombre="Inkscape" licencia="GPL" />
+</programas>

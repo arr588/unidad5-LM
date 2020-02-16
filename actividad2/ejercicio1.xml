@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<equipos>
+    <equipo>
+        <nombre>Real Madrid</nombre>
+        <ciudad>Madrid</ciudad>
+        <entrenador/>
+        <jugador>
+            <nombre>Eden Hazard</nombre>
+            <delantero/>
+            <nacionalidad>Bélgica</nacionalidad>
+        </jugador>
+        <jugador>
+            <nombre>Karim Benzema</nombre>
+            <delantero/>
+            <nacionalidad>Francia</nacionalidad>
+        </jugador>
+    </equipo>
+    <equipo>
+        <nombre>Fútbol Club Barcelona</nombre>
+        <ciudad>Barcelona</ciudad>
+        <entrenador>Quique Setién</entrenador>
+        <jugador>
+            <nombre>Lionel Messi</nombre>
+            <delantero/>
+            <nacionalidad>Argentina</nacionalidad>
+        </jugador>
+        <jugador>
+            <nombre>Luis Suárez</nombre>
+            <delantero/>
+            <nacionalidad>Uruguay</nacionalidad>
+        </jugador>
+    </equipo>
+</equipos>
