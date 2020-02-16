@@ -6,12 +6,12 @@
         <entrenador/>
         <jugador>
             <nombre>Eden Hazard</nombre>
-            <delantero/>
+            <posicion x="delantero"/>
             <nacionalidad>Bélgica</nacionalidad>
         </jugador>
         <jugador>
             <nombre>Karim Benzema</nombre>
-            <delantero/>
+            <posicion x="delantero"/>
             <nacionalidad>Francia</nacionalidad>
         </jugador>
     </equipo>
@@ -21,12 +21,12 @@
         <entrenador>Quique Setién</entrenador>
         <jugador>
             <nombre>Lionel Messi</nombre>
-            <delantero/>
+            <posicion x="delantero"/>
             <nacionalidad>Argentina</nacionalidad>
         </jugador>
         <jugador>
             <nombre>Luis Suárez</nombre>
-            <delantero/>
+            <posicion x="delantero"/>
             <nacionalidad>Uruguay</nacionalidad>
         </jugador>
     </equipo>
